@@ -1,8 +1,5 @@
 #-*- encoding:utf-8 -*-
-'''
-Created on Dec 1, 2014
-@author: letian
-'''
+
 
 import sys
 reload(sys)
